@@ -7,3 +7,4 @@ Se creó una base de datos para almacenar información sobre ventas en una ferre
 
 
 Se crearon y poblaron las tablas de las entidades.
+Se analizaron los datos usando funciones como group by, join, coalesce, case, etc. Además, se crearon vistas, funciones y stored procedures.
